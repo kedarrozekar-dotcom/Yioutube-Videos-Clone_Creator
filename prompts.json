@@ -1,0 +1,290 @@
+[
+  {
+    "video_id": "VID_002",
+    "clip": 1,
+    "duration_sec": 10.0,
+    "source_time": "00:00 - 00:10",
+    "title": "Clip 1",
+    "chars": 332,
+    "prompt": "00:00 - 00:10: Bright 3D animation opens on a playful ladybug landing on a smiling green melon logo against clean white backdrop. Camera cuts to toddler Leo wearing a plaid shirt and blue puppet glove, counting hand-puppet family members 1, 2, 3. Lighting is soft and cheerful. Music: playful synth intro. Lyrics: 'One! Two! Three!'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 2,
+    "duration_sec": 10.0,
+    "source_time": "00:10 - 00:20",
+    "title": "Clip 2",
+    "chars": 284,
+    "prompt": "00:10 - 00:20: Medium shot of toddler Leo counting puppet fingers up to five on his knitted glove. Cut to wide shot of the whole family on a green striped living room sofa singing together. Upbeat acoustic guitar strumming and lively brass rhythm. Lyrics: 'Four! Five! Finger Family!'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 3,
+    "duration_sec": 10.0,
+    "source_time": "00:20 - 00:30",
+    "title": "Clip 3",
+    "chars": 340,
+    "prompt": "00:20 - 00:30: Exterior wide shot of blue family car driving down a colorful suburban street. Cut to interior shot of toddler Leo singing to his Daddy thumb puppet. Father David smiles from driver seat, singing back cheerfully. Warm daytime sunlight. Lyrics: 'Daddy finger, daddy finger, where are you? Here I am, here I am, how do you do?'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 4,
+    "duration_sec": 10.0,
+    "source_time": "00:30 - 00:40",
+    "title": "Clip 4",
+    "chars": 344,
+    "prompt": "00:30 - 00:40: Close-up of father David turning car stereo knob displaying animated sound waves. He playfully gestures while steering, singing along joyfully. Outside, car approaches a prominent pothole in road. Upbeat bouncy nursery rhyme music. Lyrics: 'Daddy finger, daddy finger, what do you do? Play guitar, play guitar, that\u2019s what I do.'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 5,
+    "duration_sec": 10.0,
+    "source_time": "00:40 - 00:50",
+    "title": "Clip 5",
+    "chars": 333,
+    "prompt": "00:40 - 00:50: Car bumps over pothole with loud clunk, halting by curb. David steps outside onto jack while Leo in car seat sings to Mommy puppet. Cut to mother Clara stepping outside boutique boxing gym wearing gloves. Bright midday lighting. Lyrics: 'Mommy finger, mommy finger, where are you? Here I am, here I am, how do you do?'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 6,
+    "duration_sec": 10.0,
+    "source_time": "00:50 - 01:00",
+    "title": "Clip 6",
+    "chars": 317,
+    "prompt": "00:50 - 01:00: Mother Clara climbs into passenger seat, happily flexing arms and boxing playfully toward Leo and plush dino. Family laughs together inside car. Sunny daylight streaming through windows. Upbeat acoustic groove. Lyrics: 'Mommy finger, mommy finger, what do you do? Exercise, exercise, that\u2019s what I do.'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 7,
+    "duration_sec": 10.0,
+    "source_time": "01:00 - 01:10",
+    "title": "Clip 7",
+    "chars": 290,
+    "prompt": "01:00 - 01:10: Exterior street view as car stops for mother duck and three ducklings waddling across crosswalk. Inside car, Clara, David, and Leo watch with wide affectionate smiles. Whimsical flute melody and gentle quacking sounds. Lyrics: 'Brother finger, brother finger, where are you?'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 8,
+    "duration_sec": 10.0,
+    "source_time": "01:10 - 01:20",
+    "title": "Clip 8",
+    "chars": 326,
+    "prompt": "01:10 - 01:20: Outside sidewalk cafe, older brother Tom wearing goggles presses button on a cardboard science contraption, lighting a small bulb. Blue family car pulls up alongside, family waving out window. Crisp outdoor lighting. Lyrics: 'Here I am, here I am, how do you do? Brother finger, brother finger, what do you do?'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 9,
+    "duration_sec": 10.0,
+    "source_time": "01:20 - 01:30",
+    "title": "Clip 9",
+    "chars": 297,
+    "prompt": "01:20 - 01:30: Tom sits in backseat showing illuminated science project to baby Leo. Father David accelerates, then stops abruptly behind a large yellow excavator blocking lane. Playful horn honk and mechanical engine hum. Upbeat tune. Lyrics: 'Building things, building things, that\u2019s what I do.'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 10,
+    "duration_sec": 10.0,
+    "source_time": "01:30 - 01:40",
+    "title": "Clip 10",
+    "chars": 324,
+    "prompt": "01:30 - 01:40: Baby Leo holds up Sister ring finger puppet. Cut to outdoor art shop where sister Mia stands holding an easel canvas of a painted blue sheep. Family car arrives to pick her up. Bright morning light. Bouncy synth tune. Lyrics: 'Sister finger, sister finger, where are you? Here I am, here I am, how do you do?'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 11,
+    "duration_sec": 10.0,
+    "source_time": "01:40 - 01:50",
+    "title": "Clip 11",
+    "chars": 337,
+    "prompt": "01:40 - 01:50: Mia hops into back seat showing baby Leo her completed painting while smiling warmly. Father David checks wristwatch and drives down green residential avenue. Sunlit neighborhood backdrop. Cheerful orchestral melody. Lyrics: 'Sister finger, sister finger, what do you do? Draw and paint, draw and paint, that\u2019s what I do.'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 12,
+    "duration_sec": 10.0,
+    "source_time": "01:50 - 02:00",
+    "title": "Clip 12",
+    "chars": 304,
+    "prompt": "01:50 - 02:00: Blue car pulls into house driveway. Toddler Leo walks to open front door wearing his puppet glove and clutching red teddy bear, singing excitedly. Warm welcoming afternoon sun. Bouncy accordion melody. Lyrics: 'Baby finger, baby finger, where are you? Here I am, here I am, how do you do?'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 13,
+    "duration_sec": 10.0,
+    "source_time": "02:00 - 02:10",
+    "title": "Clip 13",
+    "chars": 310,
+    "prompt": "02:00 - 02:10: Entire family walks into front hallway laden with bags and toys. Baby Leo turns inside living room hugging his teddy bear playfully. Bright pastel interior lighting. Lively marching beat. Lyrics: 'Baby finger, baby finger, what do you do? Play with friends, play with friends, that\u2019s what I do.'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 14,
+    "duration_sec": 10.0,
+    "source_time": "02:10 - 02:20",
+    "title": "Clip 14",
+    "chars": 248,
+    "prompt": "02:10 - 02:20: Exhausted father David yawns, holding a bundle of toys, and collapses face-down onto green striped sofa embracing plush yellow dino. Soft afternoon light through bay window. Gentle sleepy guitar melody and soft snoring sound effects."
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 15,
+    "duration_sec": 10.0,
+    "source_time": "02:20 - 02:30",
+    "title": "Clip 15",
+    "chars": 243,
+    "prompt": "02:20 - 02:30: Wide shot of living room: kids playing on floor, mother Clara setting down supplies. Toddler Leo quietly approaches sleeping father on couch, gently retrieving guitar car keys and snuggling David's arm. Warm peaceful atmosphere."
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 16,
+    "duration_sec": 10.0,
+    "source_time": "02:30 - 02:40",
+    "title": "Clip 16",
+    "chars": 256,
+    "prompt": "02:30 - 02:40: Morning sunlight fills cozy living room. Mother Clara and toddler Leo sit together on sofa beneath purple blanket. Leo yawns, stretches, and looks up asking Clara to play. Sweet harp and piano intro. Spoken dialogue: 'Will you play with me?'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 17,
+    "duration_sec": 10.0,
+    "source_time": "02:40 - 02:50",
+    "title": "Clip 17",
+    "chars": 290,
+    "prompt": "02:40 - 02:50: Mother Clara smiles warmly and demonstrates wiggling fingers in air like an inchworm. Baby Leo mimics excitedly, giggling on couch cushions. Soft morning sunshine. Bouncy marimba melody. Lyrics: 'I like to wiggle my fingers like a worm. Wiggle and squirm, wiggle and squirm!'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 18,
+    "duration_sec": 10.0,
+    "source_time": "02:50 - 03:00",
+    "title": "Clip 18",
+    "chars": 307,
+    "prompt": "02:50 - 03:00: Clara and Leo sit facing each other on striped sofa, performing synchronized high-fives and clapping game. Clara gently tickles Leo's stomach as they laugh. Lively brass and percussive rhythm. Lyrics: 'Wiggle my fingers like a worm, wiggle and wiggle and squirm! Da da da da da da... Wiggle!'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 19,
+    "duration_sec": 10.0,
+    "source_time": "03:00 - 03:10",
+    "title": "Clip 19",
+    "chars": 278,
+    "prompt": "03:00 - 03:10: Close-up two-shot of Clara and Leo clapping palms enthusiastically in time with music. Clara wiggles fingers gently on Leo's belly, prompting contagious giggles. Cheerful daytime lighting. Upbeat bouncy tune. Lyrics: 'Da da da da da da, da da doo doo da! Wiggle!'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 20,
+    "duration_sec": 10.0,
+    "source_time": "03:10 - 03:20",
+    "title": "Clip 20",
+    "chars": 296,
+    "prompt": "03:10 - 03:20: Clara shifts down onto patterned carpet kneeling before Leo. She claps and shimmies her shoulders side to side like a snake. Leo watches with wide amused eyes. Warm ambient living room light. Lyrics: 'I like to shimmy my shoulders like a snake. Shimmy and shake, shimmy and shake!'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 21,
+    "duration_sec": 10.0,
+    "source_time": "03:20 - 03:30",
+    "title": "Clip 21",
+    "chars": 264,
+    "prompt": "03:20 - 03:30: Clara leans in close, playfully tapping noses with Leo before shimmying her shoulders again. Leo mimics shoulder wiggle with big grin. Bright morning glow. Bouncy nursery beat. Lyrics: 'Shimmy my shoulders like a snake, shimmy and shimmy and shake!'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 22,
+    "duration_sec": 10.0,
+    "source_time": "03:30 - 03:40",
+    "title": "Clip 22",
+    "chars": 263,
+    "prompt": "03:30 - 03:40: Low-angle close-up as Clara and Leo engage in rhythmic clapping game on floor, smiling nose-to-nose. Clara leans in for a gentle playful forehead touch. Upbeat brass and woodwind accompaniment. Lyrics: 'Da da da da da da, da da doo doo da! Shimmy!'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 23,
+    "duration_sec": 10.0,
+    "source_time": "03:40 - 03:50",
+    "title": "Clip 23",
+    "chars": 293,
+    "prompt": "03:40 - 03:50: Clara gently lifts Leo back onto sofa, supporting his waist as both begin flapping arms outstretched like bat wings. Joyful smiles on both faces. Soft sunlit living room. Dynamic soaring woodwind melody. Lyrics: 'I like to flap my arms like a bat. Flippity flap, flippity flap!'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 24,
+    "duration_sec": 10.0,
+    "source_time": "03:50 - 04:00",
+    "title": "Clip 24",
+    "chars": 243,
+    "prompt": "03:50 - 04:00: Medium shot of Leo sitting tall on cushions, flapping arms up and down alongside mother Clara. Both laugh happily as Leo rocks back and forth. Warm sunbeams across sofa. Lyrics: 'Flap my arms like a bat, flip and flip and flap!'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 25,
+    "duration_sec": 10.0,
+    "source_time": "04:00 - 04:10",
+    "title": "Clip 25",
+    "chars": 250,
+    "prompt": "04:00 - 04:10: Clara lifts both arms high overhead with Leo, then plays clapping game sitting beside him. Upbeat lively rhythm with playful brass stabs. Cheerful lighting. Lyrics: 'Da da da da da da, da da doo doo da! Flap flap! Da da da da da da...'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 26,
+    "duration_sec": 10.0,
+    "source_time": "04:10 - 04:20",
+    "title": "Clip 26",
+    "chars": 237,
+    "prompt": "04:10 - 04:20: Clara scoops baby Leo into her arms, joyfully 'flying' him across living room toward sunny bay window. Leo giggles with arms outstretched like airplane wings. Bright radiant sunlight and whimsical playful flute flourishes."
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 27,
+    "duration_sec": 10.0,
+    "source_time": "04:20 - 04:30",
+    "title": "Clip 27",
+    "chars": 289,
+    "prompt": "04:20 - 04:30: Clara kneels on vibrant carpet, demonstrating full combination: shimmying shoulders, flapping arms, and wiggling fingers like a worm. Leo watches in sheer delight. Bouncy energetic tempo. Lyrics: 'Shimmy and flap, shake and squirm. Wiggle, wiggle, wiggle, just like a worm!'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 28,
+    "duration_sec": 10.0,
+    "source_time": "04:30 - 04:40",
+    "title": "Clip 28",
+    "chars": 270,
+    "prompt": "04:30 - 04:40: Clara reaches out playfully tickling Leo's feet, then performs energetic sequence once more. Leo laughs uncontrollably, clapping his tiny hands. Bright indoor daylight. Lyrics: 'Shimmy and flap, shake and squirm. Wiggle, wiggle, wiggle, just like a worm!'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 29,
+    "duration_sec": 10.0,
+    "source_time": "04:40 - 04:50",
+    "title": "Clip 29",
+    "chars": 239,
+    "prompt": "04:40 - 04:50: Close-up front view of mother and child doing joyful synchronized clapping and high-five game on carpet, beaming with happiness. Energetic melodic climax with brass and strings. Lyrics: 'Da da da da da da, da da doo doo da!'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 30,
+    "duration_sec": 10.0,
+    "source_time": "04:50 - 05:00",
+    "title": "Clip 30",
+    "chars": 264,
+    "prompt": "04:50 - 05:00: Clara gently picks up toddler Leo into her arms, standing up and swaying side-to-side in a gentle spinning dance across living room. Soft warm sunset hues fill room. Sweet lullaby-infused acoustic tune. Lyrics: 'Da da da da da da, da da doo doo da!'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 31,
+    "duration_sec": 10.0,
+    "source_time": "05:00 - 05:10",
+    "title": "Clip 31",
+    "chars": 251,
+    "prompt": "05:00 - 05:10: Clara holds baby Leo against her shoulder, giving him sweet kiss on cheek. Both look into camera, waving goodbye warmly. Cute animated ladybug flutters across frame. Soft chime sound effects. Dialogue: 'Thanks for moving along with us!'"
+  },
+  {
+    "video_id": "VID_002",
+    "clip": 32,
+    "duration_sec": 10.0,
+    "source_time": "05:10 - 05:12",
+    "title": "Clip 32",
+    "chars": 227,
+    "prompt": "05:10 - 05:20: Cute green animated melon character smiles cheerfully on white screen as ladybug perches atop its head. Sleepy baby Leo snores gently beside closing brand graphics, yawning adorably. Gentle music box chime outro."
+  }
+]
